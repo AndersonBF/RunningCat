@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>spritegato.png</file>
+        <file>background.jpg</file>
+    </qresource>
+</RCC>
